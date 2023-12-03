@@ -27,8 +27,8 @@ public class practical1 {
 
         long elapsed = end - start;
         
-        System.out.println("Sorted array:");
-        printArray(arr1);
+        // System.out.println("Sorted array:");
+        // printArray(arr1);
 
         System.out.println("Elapsed time (in milliseconds): " + elapsed);
     }
